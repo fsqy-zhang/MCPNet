@@ -9,4 +9,4 @@ python tools/train.py
 python tools/test.py
 
 # 预测
-python tools/test.py
+python tools/analysis_tools/test.py
